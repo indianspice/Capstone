@@ -1,1 +1,1 @@
-# Capstone
+Lego project using Python3
